@@ -5,10 +5,10 @@ This is an overview of the Homework submission process when it is due, and how i
 
 #### Summary: 
 
-- Homework Submission
-- Homework Guidelines
-- How to Submit Homework 
-- Plagiarism
+- **Homework Submission**
+- **Homework Guidelines**
+- **How to Submit Homework** 
+- **Plagiarism**
 
 
 ## 📅 Homework Submission 📅

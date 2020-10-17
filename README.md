@@ -6,19 +6,19 @@ This is an overview of the Homework submission process when it is due, and how i
 #### Summary: 
 
 - Homework Submission
-- Homework guidelines 
-- How to submit homework 
-- Pla
+- Homework Guidelines
+- How to Submit Homework 
+- Plagiarism
 
 
-## Homework Submission
+## 📅 Homework Submission 📅
 
 * All homework (homework assigned on both Wednesday and Saturday) must be submitted Tuesday *before class begins*
 
 * Homework feedback will be provided the following Saturday after submission
 
 
-## Homework guidelines 
+## 👻 Homework Guidelines 👻
 
 * Students must receive a passing grade of 80% on all homework assignments.
   
@@ -26,7 +26,7 @@ This is an overview of the Homework submission process when it is due, and how i
   
 * If students are not able to complete a specific task within the minimum requirement, students are expected to provide a small description of the issue as well as provide any external source and code used while attempting to pass that specific task. 
 
-## How to submit homework 
+## 🐩 How to Submit Homework  🐈 
 
 ### Push Your code Regularly 
 
@@ -70,7 +70,7 @@ _Add a good description of the homework_
 💡**Pro Tip**: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
 
 
-## Plagiarism
+## 🛑 Plagiarism 🛑
 
 - Plagiarism (passing someone else's off as your own) will only result in you getting job that you're unqualified for and will get fired from
 	- How do I know?

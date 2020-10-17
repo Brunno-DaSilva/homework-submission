@@ -31,13 +31,14 @@ This is an overview of the Homework submission process when it is due, and how i
 Here are three steps you will need to follow for every homework submission, this will help us to keep track of your homework submission and will you to easily access your feedback whenever you need it.
 
 
-1.  Using that week's homework folder on your forked version of Github, push your changes to your repository from your terminal by changing into your repository from your terminal and running the following commands:
+1.  Using that week's homework folder on our main SEIR-RUTH main repo (not your forked repo), push your changes to the repository from your terminal by changing into your repository from your terminal and running the following commands:
   
     * `git add -A`
     * `git commit -m "current week homework”`
     * `git push`
 
-2.  Create a github `Issue` in your homework repository 
+2.  Create a github `Issue` in in the main [SEIR-Ruth repository](https://git.generalassemb.ly/Software-Engineering-Immersive-Remote/SEIR-Ruth)
+    
     * See the dropdown below:
 
 <details><summary><strong>🚨 How to create a Github Issues?🚨</strong></summary>
@@ -48,6 +49,7 @@ Here are three steps you will need to follow for every homework submission, this
    * `Bruno-DaSilva_HomeworkW1D2`
 4. Body: Add a simple description
 Body sample:  ⬇️
+
 ```
 **Description:** 
 

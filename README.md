@@ -28,7 +28,8 @@ This is an overview of the Homework submission process when it is due, and how i
 
 ## 🐩 How to Submit Homework  🐈 
 
-### Push Your code Regularly 
+Here are three steps you will need to follow for every homework submission, this will help us to keep track of your homework submission and will you to easily access your feedback whenever you need it.
+
 
 1.  Using that week's homework folder on your forked version of Github, push your changes to your repository from your terminal by changing into your repository from your terminal and running the following commands:
   

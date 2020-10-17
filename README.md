@@ -37,17 +37,17 @@ This is an overview of the Homework submission process when it is due, and how i
 * `git push`
 
 * Create a github `Issue` in your homework repository 
-  * To the title
-* See the dropdown below:
+  * See the dropdown below:
 
 <details><summary><strong>How to create a Github Issues?</strong></summary>
 
-<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950281/SEI-REPO/githubissues_frpmie.png" atl="GitHub issues"/>
+<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950946/SEI-REPO/githubissues_c80sss.png" atl="GitHub issues"/>
 
 1. Click on the `Issues` tab
 2. Click on the `New issue` button
 3. Title: Add your FirstLastName followed by week and day of the homework
-4. Body: Add a simple description. 
+   * `Bruno-DaSilva_HomeworkW1D2`
+4. Body: Add a simple description
   
 ```
 **Description:** 
@@ -57,7 +57,7 @@ _Add a good description of the homework_
 - how you feel about it? 
 - What were the challenges you faced?
 ```
-
+😆 *More Information can be found here:* 
 [How to Create an issue or pull request in GitHub?](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request)
 
 </details>

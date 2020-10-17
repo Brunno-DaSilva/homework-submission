@@ -24,7 +24,7 @@ This is an overview of the Homework submission process when it is due, and how i
   
 * To receive a passing grade, students must complete 100% of the minimum tasks specified in that assignment
   
-* If students are not able to complete a specific task within the minimum requirement, students are expected to provide a small description of the issue as well as provide any external source and code used while attempting to pass that specific task. 
+* If students are not able to complete a specific task within the minimum specified tasks, students are expected to provide a small description of the issue as well as provide any external source and code used while attempting to pass that specific task. 
 
 ## 🐩 How to Submit Homework  🐈 
 

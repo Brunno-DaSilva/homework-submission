@@ -51,24 +51,20 @@ Here are three steps you will need to follow for every homework submission, this
 Body sample:  ⬇️
 
 ```
-**Description:** 
+## Homework Submission
 
-Link(s) to the relevant homework folder in your OWN FORKED REPO: 
+* Link(s) to the relevant homework folder in your OWN FORKED REPO:
 
+* **Completeness** (0 - 5) :
+* **Comfort** (0 - 5) :
+* **Wins** :
+* **Struggles** :
+* **Other comments** :
 
-- Completeness (0 - 5) : 
-- 
-- Comfort (0 - 5) : 
-- 
-- Wins: 
-- 
-- Struggles:
-- 
-- Other comments:
 
 ```
 
-<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950946/SEI-REPO/githubissues_c80sss.png" atl="GitHub issues"/>
+<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602971167/SEI-REPO/githubissues_vzfzzz.png" atl="GitHub issues"/>
 
 
 😆**More Information can be found here:**

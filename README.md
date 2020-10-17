@@ -30,13 +30,13 @@ This is an overview of the Homework submission process when it is due, and how i
 
 ### Push Your code Regularly 
 
-* Using that week's homework folder on your forked version of Github, push your changes to your repository from your terminal by changing into your repository from your terminal and running the following commands:
+1.  Using that week's homework folder on your forked version of Github, push your changes to your repository from your terminal by changing into your repository from your terminal and running the following commands:
   
-* `git add -A`
-* `git commit -m "current week homework”`
-* `git push`
+  * `git add -A`
+  * `git commit -m "current week homework”`
+  * `git push`
 
-* Create a github `Issue` in your homework repository 
+2.  Create a github `Issue` in your homework repository 
   * See the dropdown below:
 
 <details><summary><strong>How to create a Github Issues?</strong></summary>
@@ -65,7 +65,7 @@ _Add a good description of the homework_
 </details>
 
 
-* Finally, fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework.
+3. Finally, fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework.
 
 💡**Pro Tip**: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
 

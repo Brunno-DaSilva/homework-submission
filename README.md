@@ -31,7 +31,7 @@ This is an overview of the Homework submission process when it is due, and how i
 Here are three steps you will need to follow for every homework submission, this will help us to keep track of your homework submission and will you to easily access your feedback whenever you need it.
 
 
-1.  Using that week's homework folder on our main SEIR-RUTH main repo (not your forked repo), push your changes to the repository from your terminal by changing into your repository from your terminal and running the following commands:
+1.  Using that week's homework folder, push your changes to the repository from your terminal by changing into your repository from your terminal and running the following commands:
   
     * `git add -A`
     * `git commit -m "current week homework”`

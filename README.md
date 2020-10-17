@@ -53,10 +53,19 @@ Body sample:  ⬇️
 ```
 **Description:** 
 
-_Add a good description of the homework_
+Link(s) to the relevant homework folder in your OWN FORKED REPO: 
 
-- how you feel about it? 
-- What were the challenges you faced?
+
+- Completeness (0 - 5) : 
+- 
+- Comfort (0 - 5) : 
+- 
+- Wins: 
+- 
+- Struggles:
+- 
+- Other comments:
+
 ```
 
 <img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950946/SEI-REPO/githubissues_c80sss.png" atl="GitHub issues"/>

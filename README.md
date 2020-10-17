@@ -32,9 +32,9 @@ This is an overview of the Homework submission process when it is due, and how i
 
 1.  Using that week's homework folder on your forked version of Github, push your changes to your repository from your terminal by changing into your repository from your terminal and running the following commands:
   
-  * `git add -A`
-  * `git commit -m "current week homework”`
-  * `git push`
+    * `git add -A`
+    * `git commit -m "current week homework”`
+    * `git push`
 
 2.  Create a github `Issue` in your homework repository 
   * See the dropdown below:

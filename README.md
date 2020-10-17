@@ -37,9 +37,9 @@ This is an overview of the Homework submission process when it is due, and how i
     * `git push`
 
 2.  Create a github `Issue` in your homework repository 
-  * See the dropdown below:
+    * See the dropdown below:
 
-<details><summary><strong>How to create a Github Issues?</strong></summary>
+<details><summary><strong>🚨 How to create a Github Issues?🚨</strong></summary>
 
 1. Click on the `Issues` tab
 2. Click on the `New issue` button
@@ -67,10 +67,10 @@ _Add a good description of the homework_
 
 3. Finally, fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework.
 
-💡**Pro Tip**: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
+💡 **Pro Tip**: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
 
 
-## 🛑 Plagiarism 🛑
+## ⚠️ Plagiarism ⚠️
 
 - Plagiarism (passing someone else's off as your own) will only result in you getting job that you're unqualified for and will get fired from
 	- How do I know?

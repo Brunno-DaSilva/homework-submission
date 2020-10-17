@@ -41,7 +41,7 @@ Here are three steps you will need to follow for every homework submission, this
     * See the dropdown below:
 
 <details><summary><strong>🚨 How to create a Github Issues?🚨</strong></summary>
-<br>
+<br><br />
 1. Click on the `Issues` tab
 2. Click on the `New issue` button
 3. Title: Add your FirstLastName followed by week and day of the homework

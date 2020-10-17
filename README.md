@@ -41,14 +41,12 @@ This is an overview of the Homework submission process when it is due, and how i
 
 <details><summary><strong>How to create a Github Issues?</strong></summary>
 
-<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950946/SEI-REPO/githubissues_c80sss.png" atl="GitHub issues"/>
-
 1. Click on the `Issues` tab
 2. Click on the `New issue` button
 3. Title: Add your FirstLastName followed by week and day of the homework
    * `Bruno-DaSilva_HomeworkW1D2`
 4. Body: Add a simple description
-  
+Body sample:  ⬇️
 ```
 **Description:** 
 
@@ -57,16 +55,19 @@ _Add a good description of the homework_
 - how you feel about it? 
 - What were the challenges you faced?
 ```
-😆 *More Information can be found here:* 
+
+<img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602950946/SEI-REPO/githubissues_c80sss.png" atl="GitHub issues"/>
+
+
+😆**More Information can be found here:**
 [How to Create an issue or pull request in GitHub?](https://docs.github.com/en/free-pro-team@latest/desktop/contributing-and-collaborating-using-github-desktop/creating-an-issue-or-pull-request)
 
 </details>
 
 
-* Fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework.
+* Finally, fill out this [Google Form](https://forms.gle/4NPb21sHPtbvKSYD6) with your github link for that specific homework. It will be the same Google Form for each homework.
 
-
-💡*Pro Tip*: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
+💡**Pro Tip**: Commit your work every time you hit a milestone, as often as possible. This is the versioning history of your entire project. 
 
 
 ## Plagiarism

@@ -60,8 +60,6 @@ Body sample:  ⬇️
 * **Wins** :
 * **Struggles** :
 * **Other comments** :
-
-
 ```
 
 <img src="https://res.cloudinary.com/duprwuo4j/image/upload/v1602971167/SEI-REPO/githubissues_vzfzzz.png" atl="GitHub issues"/>
